@@ -4,7 +4,7 @@ const PROJECT_DATA = [
     title: "FINDME",
     subtitle: "A Reporting portal for lost and found items",
     description: "Helps Uiversity staff and students to report their belongings, either lost or found",
-    link: "https://find-me-inky.vercel.app/",
+    link: "https://reportingapp-delta.vercel.app/",
     tags: ["Education", "Trust", "Architecture"]
   },
   {
